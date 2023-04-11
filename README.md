@@ -42,19 +42,19 @@
   
 </div>
     <div id="skilsv2">
+         <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Flutter.png" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Firebase.png" title="Firebase" alt="Firebase" width="50" height="60"/>&nbsp;
         <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/nodejs.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-       <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Flutter.png" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Firebase.png" title="Firebase" alt="Firebase" width="50" height="60"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/3JS.png" title="3JS" alt="3JS" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Angular.png" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
-            <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/HTML.png" title="Html" alt="Html" width="45" height="70"/>&nbsp;
-            <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/js.png" title="JS" alt="JS" width="45" height="70"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/CSS.png" title="CSS" alt="CSS" width="45" height="70"/>&nbsp;
+        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/React.png" title="React" alt="React" width="60" height="55"/>&nbsp;
+        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/mongo_db.png" title="Mongo-DB" alt="Mongo-DB" width="60" height="70"/>&nbsp;
+        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Angular.png" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/HTML.png" title="Html" alt="Html" width="45" height="70"/>&nbsp;
+        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/js.png" title="JS" alt="JS" width="45" height="70"/>&nbsp;
+        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/CSS.png" title="CSS" alt="CSS" width="45" height="70"/>&nbsp;
+        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/3JS.png" title="3JS" alt="3JS" width="50" height="50"/>&nbsp;
       <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Git.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/React.png" title="React" alt="React" width="60" height="55"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/mongo_db.png" title="Mongo-DB" alt="Mongo-DB" width="60" height="70"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/mySql.png" title="MySql" alt="MySql" width="60" height="60"/>&nbsp;
       <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/unity.png" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
+     <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/mySql.png" title="MySql" alt="MySql" width="60" height="60"/>&nbsp;
   </div>
   
   ---
