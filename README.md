@@ -1,19 +1,19 @@
 👋!! Hi There !!👋 <br /><br />
- ✔  I'm Chinmaya Garnaik <br />
-- 👀 I'm currently Pursuing Master of Computer Application (MCA)
-<!--  👨‍💻 I'm currently learning React Native <br /> -->
+ ✔  I'm Dipankar Karmakar <br />
+- 👀 I've currently Passed out Bachelors of Computer Application (BCA)
+ 👨‍💻 I'm currently learning React Js <br />
 
 
 </div>
 <!-- dummy -->
 
 ### Connect with me: <social> <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/chinmaya-garnaik-a093a21b5/">
+  <a href="https://www.linkedin.com/in/dipankar-karmakar-a47412236/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-<!--   <a href="https://instagram.com/whyarchit">
+  <a href="https://www.instagram.com/dipankar.zander/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-      </a> -->
+      </a>
 </div>
 
 <about-stuff>
@@ -33,34 +33,24 @@
     <a>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA Badge"/>
       </a>
-    <a>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=" alt="Dart Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" alt="Flutter Badge"/>
-      </a>
   
 </div>
     <div id="skilsv2">
-         <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Flutter.png" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Firebase.png" title="Firebase" alt="Firebase" width="50" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/nodejs.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/React.png" title="React" alt="React" width="60" height="55"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/mongo_db.png" title="Mongo-DB" alt="Mongo-DB" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Angular.png" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/HTML.png" title="Html" alt="Html" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/CSS.png" title="CSS" alt="CSS" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/js.png" title="JS" alt="JS" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/3JS.png" title="3JS" alt="3JS" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Git.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/unity.png" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
-     <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/mySql.png" title="MySql" alt="MySql" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/Zander99900/Zander99900/blob/main/nodejs.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/Zander99900/Zander99900/blob/main/React.png" title="React" alt="React" width="60" height="55"/>&nbsp;
+        <img src="https://github.com/Zander99900/Zander99900/blob/main/mongo_db.png" title="Mongo-DB" alt="Mongo-DB" width="55" height="60"/>&nbsp;
+        <img src="https://github.com/Zander99900/Zander99900/blob/main/HTML.png" title="Html" alt="Html" width="55" height="60"/>&nbsp;
+        <img src="https://github.com/Zander99900/Zander99900/blob/main/CSS.png" title="CSS" alt="CSS" width="55" height="60"/>&nbsp;
+        <img src="https://github.com/Zander99900/Zander99900/blob/main/js.png" title="JS" alt="JS" width="55" height="60"/>&nbsp;
+        <img src="https://github.com/Zander99900/Zander99900/blob/main/3JS.png" title="3JS" alt="3JS" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/Zander99900/Zander99900/blob/main/Git.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+     <img src="https://github.com/Zander99900/Zander99900/blob/main/mySql.png" title="MySql" alt="MySql" width="60" height="60"/>&nbsp;
   </div>
   
   ---
   
   ### :fire: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinmayaGit&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zander99900&theme=dark&background=000000)](https://git.io/streak-stats)
   
  
