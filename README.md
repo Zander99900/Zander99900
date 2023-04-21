@@ -1,6 +1,6 @@
 👋!! Hi There !!👋 <br /><br />
  ✔  I'm Dipankar Karmakar <br />
-- 👀 I've currently Passed out Bachelors of Computer Application (BCA)
+- 👀 I've currently Passed out Bachelors of Computer Application (BCA) <br />
  👨‍💻 I'm currently learning React Js <br />
 
 
