@@ -1,56 +1,27 @@
-👋!! Hi There !!👋 <br /><br />
- ✔  I'm Dipankar Karmakar <br />
-- 👀 I've currently Passed out Bachelors of Computer Application (BCA) <br />
- 👨‍💻 I'm currently learning React Js <br />
+# 💫 About Me:
+C++, java, python, Data structure, React, HTML, CSS, JS, Django
 
 
-</div>
-<!-- dummy -->
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010718025277) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipankar.zander) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-karmakar-a47412236) 
 
-### Connect with me: <social> <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dipankar-karmakar-a47412236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-  <a href="https://www.instagram.com/dipankar.zander/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-      </a>
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zander99900&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zander99900&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zander99900&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<about-stuff>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zander99900&theme=material-palenight&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### :hammer_and_wrench: Languages and Tools :
-  <div id="skils">
-    <a>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA Badge"/>
-      </a>
-  
-</div>
-    <div id="skilsv2">
-        <img src="https://github.com/Zander99900/Zander99900/blob/main/nodejs.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/Zander99900/Zander99900/blob/main/React.png" title="React" alt="React" width="60" height="55"/>&nbsp;
-        <img src="https://github.com/Zander99900/Zander99900/blob/main/mongo_db.png" title="Mongo-DB" alt="Mongo-DB" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/Zander99900/Zander99900/blob/main/HTML.png" title="Html" alt="Html" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/Zander99900/Zander99900/blob/main/CSS.png" title="CSS" alt="CSS" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/Zander99900/Zander99900/blob/main/js.png" title="JS" alt="JS" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/Zander99900/Zander99900/blob/main/3JS.png" title="3JS" alt="3JS" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/Zander99900/Zander99900/blob/main/Git.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-     <img src="https://github.com/Zander99900/Zander99900/blob/main/mySql.png" title="MySql" alt="MySql" width="60" height="60"/>&nbsp;
-  </div>
-  
-  ---
-  
-  ### :fire: My Stats :
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zander99900&theme=dark&background=000000)](https://git.io/streak-stats)
-  
- 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zander99900&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=zander99900&icon=4&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
