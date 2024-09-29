@@ -1,5 +1,7 @@
 # 💫 About Me:
-C++, java, python, Data structure, React, HTML, CSS, JS, Django
+Freelance Web Developer, Eager to learn new technologies everyday & grow in the field of Web Development.
+Currently Pursuing MCA @ Sri Sri University, Cuttack
+Completed BCA From Trident Academy of Creative Technology, Bhubaneshwar
 
 
 ## 🌐 Socials:
